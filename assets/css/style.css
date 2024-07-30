@@ -4,13 +4,11 @@
  .footer {
     background-color: #1d1e1e;
     padding: 20px 0;
-    color: #fafafa
+    color: #fafafa;
 }
 
 .footer .social-links a {
     margin: 0 10px;
-    border: solid 2px;
-    border-radius: 50%;
     font-size: 24px;
     padding: 20px 20px;
     margin: 0 10px;
@@ -20,7 +18,12 @@
 }
 
 .footer .social-links a:hover {
-    color: #007bff;
+    color: #CAAC8D;
+}
+
+.button-color {
+    background-color: #869337;
+    color: black;
 }
 
 
