@@ -1,5 +1,15 @@
 /* appropriate sections for all style rules below using comments to separate */
 
+h1 {
+    text-align: center;
+    font-size: x-large;
+}
+
+h2 {
+    text-align: center;
+    font-size: medium;
+}
+
  /* Custom styles for the footer */
  .footer {
     background-color: #1d1e1e;
@@ -51,15 +61,18 @@ body {
 }
 
 .contact-form {
+    border-radius: 10px;
+    background-color:rgba(0, 0, 0, 0.5);
     max-width: 800px;
-    margin: 0 auto;
+    margin: 2em auto;
+    padding: 2em;
 }
 
 .form-title {
     text-align: center;
     margin-bottom: 30px;
     margin-top: 30px;
-    color: #333;
+    color: #fafafa;
 }
 
 .submit-button-wrapper {
@@ -69,12 +82,15 @@ body {
 }
 
 .form-control {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    color: #fafafa !important;
+    border: 0;
+    border-bottom: 1px solid #fafafa;
 }
 
 label {
     font-weight: bold;
-    color: #333;
+    color: #fafafa;
 }
 
 
