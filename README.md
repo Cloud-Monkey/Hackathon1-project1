@@ -11,19 +11,26 @@ The primary job of this website is to educate and engage visitors. It aims to pr
 
 ## List of Features
 
+Logo
+Top navigation menu
+Hero image
+Visual Story
+Footer
+
+
 ## UX/UI
 
 ## Messaging and tone
 
 _Brand Archetype:_ Sage (knowledge) and Explorer (freedom).
 
-Tone/Characteristics:
-Informative, Engaging: Offer rich, detailed content that captures attention.
-Trustworthy, Conversational: Share information in a clear, approachable way.
-Respectful, Caring: Value cultural heritage and the reader's time.
-Passionate, Enthusiastic: Convey a love for tea and its deep cultural roots.
+_Tone Characteristics:_
+1. Informative, Engaging: Offer rich, detailed content that captures attention.
+2. Trustworthy, Conversational: Share information in a clear, approachable way.
+3. Respectful, Caring: Value cultural heritage and the reader's time.
+4. Passionate, Enthusiastic: Convey a love for tea and its deep cultural roots.
 
-Example Messaging:
+_Example Messaging:_
 "Discover the rich history of tea across China, Japan, and India."
 "Uncover the stories behind every cup."
 "Explore the art and tradition of tea-making."
@@ -49,6 +56,8 @@ Top Navigation bar and footer.
 ### Contact Page
 Easy-to-find contact form, social links, additional resources.
 Top Navigation bar and footer.
+
+(include wireframes here!!!)
 
 ## Testing
 
