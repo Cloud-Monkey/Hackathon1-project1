@@ -21,11 +21,15 @@
     color: #CAAC8D;
 }
 
+/* custom logo styles for nav */
+
 .nav-logo {
     width: 75px;
     height: 75px;
     margin-right: 10px;
 }
+
+/* contact page/form style rules */
 
 .contact-headers {
     text-align: center;
@@ -54,13 +58,25 @@ body {
 .form-title {
     text-align: center;
     margin-bottom: 30px;
+    margin-top: 30px;
     color: #333;
 }
 
 .submit-button-wrapper {
     text-align: center;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
+
+.form-control {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+label {
+    font-weight: bold;
+    color: #333;
+}
+
 
 
 
