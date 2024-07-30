@@ -7,7 +7,7 @@
 
     <!-- link to style.css -->
 
-    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/style1.css">
 
     <!-- BootStrap CSS Functionality -->
 
@@ -38,33 +38,61 @@
                     <a class="nav-link" href="./world.html"><em><strong>Gallery</strong></em></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="./contact.html" active><em><strong>Contact</strong></em></a>
+                    <a class="nav-link active" href="./contact.html"><em><strong>Contact</strong></em></a>
                 </li>
             </ul>
         </div>
     </nav>
     
     <div>
-<h1>The Contact art Part of tea</h1> 
+
+<!-- Section for contact form -->
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <form class="contact-form">
+                    <h3 class="form-title">Contact Us</h3>
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" class="form-control" id="name" placeholder="Enter your name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="subject">Subject</label>
+                        <input type="text" class="form-control" id="subject" placeholder="Enter the subject" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea class="form-control" id="message" rows="5" placeholder="Enter your message" required></textarea>
+                    </div>
+                    <div class="submit-button-wrapper">
+                        <button type="submit" class="btn btn-success">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
 <!-- footer for all pages -->
 <footer class="footer">
     <div class="container">
         <div class="row">
-<!-- copyright information section of footer -->
-            <div class="col-md-4 text-center text-md-start mb-3 mb-md-0">
+            <!-- Copyright -->
+            <div class="col-md-4 text-center text-md-left mb-3 mb-md-0">
                 <p class="mb-0">&copy; 2024 All rights reserved.</p>
             </div>
+            <!-- Social Links -->
             <div class="col-md-4 text-center mb-3 mb-md-0">
                 <div class="social-links">
                     <a href="https://www.youtube.com" target="_blank" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
                     <a href="https://www.wikipedia.org" target="_blank" aria-label="Wikipedia"><i class="fab fa-wikipedia-w"></i></a>
                 </div>
-            <!-- Contact Us section of footer -->
-            <div class="row">
-            <div class="col text-right">
-                <a href="contact.html" type="button" class="btn btn-primary">Contact Us</a>
-                </div>
             </div>
+            <!-- Contact Us -->
         </div>
     </div>
 </footer>

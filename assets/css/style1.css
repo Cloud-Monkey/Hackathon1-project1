@@ -1,0 +1,38 @@
+/* appropriate sections for all style rules below using comments to separate */
+
+ /* Custom styles for the footer */
+ .footer {
+    background-color: #1d1e1e;
+    padding: 20px 0;
+    color: #fafafa;
+}
+
+.footer .social-links a {
+    margin: 0 10px;
+    font-size: 26px;
+    padding: 20px 20px;
+    margin: 0 10px;
+    color: #fafafa;
+    text-decoration: none;
+    padding-top: 20px;
+}
+
+.footer .social-links a:hover {
+    color: #CAAC8D;
+}
+
+.nav-logo {
+    width: 75px;
+    height: 75px;
+    margin-right: 10px;
+}
+
+.contact-headers {
+    text-align: center;
+}
+
+
+
+
+
+
