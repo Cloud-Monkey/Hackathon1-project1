@@ -1,1 +1,7 @@
 /* appropriate sections for all style rules below using comments to separate */
+
+ /* Custom styles for the footer */
+ .footer {
+    background-color: #fafa;
+    padding: 20px 0;
+}
