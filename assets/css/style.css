@@ -8,13 +8,19 @@
 }
 
 .footer .social-links a {
+    margin: 0 10px;
     border: solid 2px;
     border-radius: 50%;
+    font-size: 24px;
     padding: 20px 20px;
     margin: 0 10px;
     color: #fafafa;
     text-decoration: none;
     padding-top: 20px;
+}
+
+.footer .social-links a:hover {
+    color: #007bff;
 }
 
 
