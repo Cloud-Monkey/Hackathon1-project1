@@ -1,20 +1,77 @@
 /* appropriate sections for all style rules below using comments to separate */
 
- /* Custom styles for the footer */
- .footer {
+/*------------------------------------------------------------Navbar------------------------------------------------------ */
+
+.nav-logo {
+    width: 75px;
+    height: 75px;
+    margin-right: 10px;
+    background-color: #674368;
+}
+
+.navbar-text {
+    color: #CAAD8D
+}
+
+.navbar {
+    background-color: aquamarine;
+}
+
+.callout-container {
+    height: 100vh;
+
+    background: url('../images/tea-background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Jumbotron */
+
+.jumbotron {
+    color: #86937f;
+    background-color: transparent;
+}
+
+/* Custom styles for the footer */
+.footer {
     background-color: #1d1e1e;
     padding: 20px 0;
     color: #fafafa;
 }
 
+.copyright-text {
+    font-size: small;
+}
+
+.social-link {
+    background-color: #484848;
+    border-radius: 50%;
+    padding: 12px;
+}
+
 .footer .social-links a {
-    margin: 0 10px;
-    font-size: 24px;
-    padding: 20px 20px;
-    margin: 0 10px;
+    margin: 0;
+    font-size: 26px;
+    padding: 10px 10px;
     color: #fafafa;
     text-decoration: none;
-    padding-top: 20px;
 }
 
 .footer .social-links a:hover {
@@ -22,15 +79,6 @@
 }
 
 
-.nav-logo {
-    width: 75px;
-    height: 75px;
-    margin-right: 10px;
-}
-
-.navbar-text {
-    color: #CAAD8D
-}
 
 
 
