@@ -3,11 +3,13 @@
 h1 {
     text-align: center;
     font-size: x-large;
+    margin: 20px;
 }
 
 h2 {
+    width: 100%;
     text-align: center;
-    font-size: medium;
+    font-size: larger;
 }
 
  /* Custom styles for the footer */
@@ -49,12 +51,25 @@ h2 {
 
 /* gallery page styling */
 
-img {
-    width: 100%;
-    height: 100%;
-    /* border-radius: 50%; */
+.world-image {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
     object-fit: cover;
     object-position: center;
+}
+
+.world-text {
+    padding: 25px 0;
+}
+
+.world-card {
+    border-radius: 10px;
+    background-color:rgba(0, 0, 0, 0.5);
+    color: #fafafa;
+    width: 100%;
+    margin: 2em 0;
+    padding: 2em;
 }
 
 .su-youtube {
@@ -65,6 +80,7 @@ img {
     display: block;
 }
 
+
 p {
     width: 100%;
     margin: auto;
@@ -72,6 +88,13 @@ p {
 
 body {
     text-align: center !important;
+}
+
+body {
+    background-image: url('../images/teafield.webp');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 

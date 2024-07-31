@@ -71,6 +71,8 @@ Top Navigation bar and footer.
 
     India tea img Photo by Sümeyye  Başbil : https://www.pexels.com/photo/a-tray-with-cups-and-clay-pots-standing-on-a-blanket-24811476/
 
+    world page background pic Photo by Quang Nguyen Vinh: https://www.pexels.com/photo/woman-walking-in-tea-field-6130336/
+
 
 ## Future Features
 
