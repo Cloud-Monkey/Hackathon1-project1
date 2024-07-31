@@ -47,6 +47,36 @@ h2 {
     margin-right: 10px;
 }
 
+/* gallery page styling */
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.su-youtube {
+    border-radius:20px;
+    background:#ffffff;
+    padding:5px;
+    margin: 0 auto;
+    display: block;
+}
+
+p {
+    width: 100%;
+    margin: auto;
+}
+
+.heading-text-title {
+    /* margin: auto; */
+}
+
+
+
+
 
 
 

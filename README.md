@@ -65,6 +65,12 @@ Top Navigation bar and footer.
 
 ## Citation
     (all sources, code, images, text, tools and sites used)
+    China tea img Photo by Ivan Samkov: https://www.pexels.com/photo/woman-in-red-and-white-robe-holding-black-ceramic-cup-8952611/
+
+    Japan tea img Photo by Teddy Yang: https://www.pexels.com/photo/women-during-a-traditional-japanese-tea-ceremony-7300476/
+
+    India tea img Photo by Sümeyye  Başbil : https://www.pexels.com/photo/a-tray-with-cups-and-clay-pots-standing-on-a-blanket-24811476/
+
 
 ## Future Features
 
