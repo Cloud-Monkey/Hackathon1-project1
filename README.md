@@ -65,6 +65,7 @@ Top Navigation bar and footer.
 
 ## Citation
     (all sources, code, images, text, tools and sites used)
+    china tea img Photo by Ivan Samkov: https://www.pexels.com/photo/woman-in-red-and-white-robe-holding-black-ceramic-cup-8952611/
 
 ## Future Features
 
