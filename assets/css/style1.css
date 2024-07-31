@@ -10,6 +10,22 @@ h2 {
     font-size: medium;
 }
 
+.modal-body {
+    background-color: #333 !important;
+    color: #fff;
+  }
+
+.modal-footer {
+    background-color: #333 !important;
+    color: #fff;
+    border: 0;
+    justify-content: center;
+}
+
+.modal-content {
+    background-color: transparent;
+}
+
  /* Custom styles for the footer */
  .footer {
     background-color: #1d1e1e;

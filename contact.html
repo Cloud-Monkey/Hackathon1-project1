@@ -76,7 +76,24 @@
                                 required></textarea>
                         </div>
                         <div class="submit-button-wrapper">
-                            <button type="submit" class="btn btn-outline-light">Submit</button>
+                            <!-- Button trigger modal -->
+                            <button type="button" class="btn btn-outline-light" data-toggle="modal" data-target="#exampleModal">Submit</button>
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            Your information has been submitted, thank you.
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="submit" class="btn btn-outline-light"
+                                                data-dismiss="modal">Close</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </form>
                 </div>
