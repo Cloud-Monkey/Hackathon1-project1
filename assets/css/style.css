@@ -49,6 +49,23 @@
     background-color: transparent;
 }
 
+.jumbotron-header {
+    font-size: 72px;
+}
+
+.lead {
+    font-size: 36px;
+}
+
+.heading-three {
+    font-size: 28px;
+}
+
+.container-wrapper .media .media-body {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 /* Custom styles for the footer */
 .footer {
     background-color: #1d1e1e;
