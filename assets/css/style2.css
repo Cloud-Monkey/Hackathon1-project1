@@ -50,9 +50,9 @@ h2 {
 /* gallery page styling */
 
 img {
-    width: 250px;
-    height: 250px;
-    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    /* border-radius: 50%; */
     object-fit: cover;
     object-position: center;
 }
@@ -70,8 +70,8 @@ p {
     margin: auto;
 }
 
-.heading-text-title {
-    /* margin: auto; */
+body {
+    text-align: center !important;
 }
 
 
