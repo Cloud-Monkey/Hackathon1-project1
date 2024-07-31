@@ -1,0 +1,57 @@
+/* appropriate sections for all style rules below using comments to separate */
+
+h1 {
+    text-align: center;
+    font-size: x-large;
+}
+
+h2 {
+    text-align: center;
+    font-size: medium;
+}
+
+ /* Custom styles for the footer */
+ .footer {
+    background-color: #1d1e1e;
+    padding: 20px 0;
+    color: #fafafa;
+}
+
+.copyright-text {
+    font-size: small;
+}
+
+.social-link {
+    background-color: #484848;
+    border-radius: 50%;
+    padding: 12px;
+}
+
+.footer .social-links a {
+    margin: 0;
+    font-size: 26px;
+    padding: 10px 10px;
+    color: #fafafa;
+    text-decoration: none;
+}
+
+.footer .social-links a:hover {
+    color: #CAAC8D;
+}
+
+/* custom logo styles for nav */
+
+.nav-logo {
+    width: 75px;
+    height: 75px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
