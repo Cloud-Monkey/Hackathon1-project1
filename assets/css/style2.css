@@ -56,6 +56,14 @@ img {
     object-fit: cover;
 }
 
+.su-youtube {
+    border-radius:20px;
+    background:#ffffff;
+    padding:5px;
+    margin: 0 auto;
+    display: block;
+}
+
 
 
 
