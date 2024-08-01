@@ -45,7 +45,7 @@ User-friendly navigation: Easy to explore and absorb the stories and information
 ## Website structure
 
 ### Homepage
-Warm welcome, brief introduction to the site, visual story images, Top Navigation bar and footer.
+Warm welcome, brief introduction to the site, visual story images, quotes from tea denizens. Top Navigation bar and footer social links.
 
 ### World page
 China Tea Culture: Detailed history, traditions, and significance. High-quality images.
@@ -57,14 +57,28 @@ Top Navigation bar and footer.
 Easy-to-find contact form, social links, additional resources.
 Top Navigation bar and footer.
 
-(include wireframes here!!!)
+(included initial wireframes below Desktop, Laptop and mobile builds)
+
+### All features shown on one page format for desktop, Laptop and Mobile devices
+
+#### Part1
+![Alt text](../Hackathon1-theartoftea/assets/images/Wireframes1.png "Basic wireframes part1")
+
+#### Part2
+![Alt text](../Hackathon1-theartoftea/assets/images/wireframes2.png "Basic wireframes part2")
+
+#### Part3
+![Alt text](../Hackathon1-theartoftea/assets/images/wireframes3.png "Basic wireframes part3")
+
+#### Part4
+![Alt text](../Hackathon1-theartoftea/assets/images/wireframes4.png "Basic wireframes part4")
 
 ## Testing
 
 ## Deployment
 
 ## Citation
-    (all sources, code, images, text, tools and sites used)
+   ### (all sources, code, images, text, tools and sites used)
 
     wireframes built using https://www.scene.io/
 
