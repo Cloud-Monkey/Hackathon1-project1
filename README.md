@@ -65,6 +65,9 @@ Top Navigation bar and footer.
 
 ## Citation
     (all sources, code, images, text, tools and sites used)
+
+    nav icon teacup https://cdn-icons-png.flaticon.com/512/4857/4857219.png
+
     China tea img Photo by Ivan Samkov: https://www.pexels.com/photo/woman-in-red-and-white-robe-holding-black-ceramic-cup-8952611/
 
     Japan tea img Photo by Teddy Yang: https://www.pexels.com/photo/women-during-a-traditional-japanese-tea-ceremony-7300476/
@@ -74,6 +77,8 @@ Top Navigation bar and footer.
     world page background pic Photo by Quang Nguyen Vinh: https://www.pexels.com/photo/woman-walking-in-tea-field-6130336/
 
     contact page background pic Photo by Bahram Yaghooti: https://www.pexels.com/photo/tray-with-glasses-and-a-pot-of-tea-10879144/
+
+    videos for gallery page Tea in the Land of Thunder: Field Notes from Darjeeling https://www.youtube.com/watch?v=jqXPGvXkaKQ&t=22s
 
 
 ## Future Features
