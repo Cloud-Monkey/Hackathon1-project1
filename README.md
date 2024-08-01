@@ -124,6 +124,8 @@ _Followed easy guide for deployment to cloud platform (Github pages) screenshot 
 
     Deployment guide used from https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
+    _readMe file created using Code institute guide pdf_
+
 
 ## Future Features
 
