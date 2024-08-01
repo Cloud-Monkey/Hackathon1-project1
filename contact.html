@@ -23,9 +23,11 @@
 
 <body>
     <!-- NavBar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <img src="./assets/images/logo.png" alt="Logo" class="nav-logo">
-        <a class="navbar-brand" href="#"> <strong>The Art of Tea</strong></a>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="./index.html">
+            <img src="./assets/images/teacuplogo.png" alt="Logo" class="nav-logo">
+            <strong>The Art of Tea</strong>
+        </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon">
@@ -47,66 +49,81 @@
         </div>
     </nav>
 
-    <div>
 
-        <!-- Section for contact form -->
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <form class="contact-form">
-                            <h1 class="form-title">Get in Touch</h1>
-                            <p class="form-title">Contact us for more information or to form partnerships</p>
-                            <div class="form-group">
-                                <label for="name">Name</label>
-                                <input type="text" class="form-control" id="name" placeholder="Enter your name"
-                                    required>
-                            </div>
-                            <div class="form-group">
-                                <label for="email">Email</label>
-                                <input type="email" class="form-control" id="email" placeholder="Enter your email"
-                                    required>
-                            </div>
-                            <div class="form-group">
-                                <label for="subject">Subject</label>
-                                <input type="text" class="form-control" id="subject" placeholder="Enter the subject"
-                                    required>
-                            </div>
-                            <div class="form-group">
-                                <label for="message">Message</label>
-                                <textarea class="form-control" id="message" rows="5" placeholder="Enter your message"
-                                    required></textarea>
-                            </div>
-                            <div class="submit-button-wrapper">
-                                <button type="submit" class="btn btn-outline-light">Submit</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- footer for all pages -->
-        <footer class="footer">
-            <div class="container">
-                <div class="row">
-                    <!-- Social Links -->
-                    <div class="col-12 text-right mb-0">
-                        <div class="social-links">
-                            <a href="https://www.youtube.com" target="_blank" aria-label="YouTube"><i
-                                    class="fab fa-youtube social-link"></i></a>
-                            <a href="https://www.wikipedia.org" target="_blank" aria-label="Wikipedia"><i
-                                    class="fab fa-wikipedia-w social-link"></i></a>
+
+    <!-- Section for contact form -->
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <form class="contact-form">
+                        <h1 class="form-title">Get in Touch</h1>
+                        <p class="form-title">Contact us for more information or to form partnerships</p>
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" class="form-control" id="name" placeholder="Enter your name" required>
                         </div>
-                    </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="subject">Subject</label>
+                            <input type="text" class="form-control" id="subject" placeholder="Enter the subject"
+                                required>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Message</label>
+                            <textarea class="form-control" id="message" rows="5" placeholder="Enter your message"
+                                required></textarea>
+                        </div>
+                        <div class="submit-button-wrapper">
+                            <!-- Button trigger modal -->
+                            <button type="button" class="btn btn-outline-light" data-toggle="modal" data-target="#exampleModal">Submit</button>
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            Your information has been submitted, thank you.
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="submit" class="btn btn-outline-light"
+                                                data-dismiss="modal">Close</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
                 </div>
-                <div class="row">
-                    <!-- Copyright -->
-                    <div class="col-12 text-center mb-0">
-                        <p class="mb-0 copyright-text">&copy; 2024 All rights reserved.</p>
+            </div>
+        </div>
+    </section>
+    <!-- footer for all pages -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <!-- Social Links -->
+                <div class="col-12 text-right mb-0">
+                    <div class="social-links">
+                        <a href="https://www.youtube.com/watch?v=Oe6kGFmFLnc" target="_blank" aria-label="YouTube"><i
+                                class="fab fa-youtube social-link"></i></a>
+                        <a href="https://en.wikipedia.org/wiki/Tea_culture" target="_blank" aria-label="Wikipedia"><i
+                                class="fab fa-wikipedia-w social-link"></i></a>
                     </div>
                 </div>
             </div>
-        </footer>
+            <div class="row">
+                <!-- Copyright -->
+                <div class="col-12 text-center mb-0">
+                    <p class="mb-0 copyright-text">&copy; 2024 All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
 
 <!-- BootStrap JavaScript Functionality -->

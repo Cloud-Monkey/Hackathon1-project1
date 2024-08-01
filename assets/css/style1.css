@@ -10,6 +10,22 @@ h2 {
     font-size: medium;
 }
 
+.modal-body {
+    background-color: #333 !important;
+    color: #fff;
+  }
+
+.modal-footer {
+    background-color: #333 !important;
+    color: #fff;
+    border: 0;
+    justify-content: center;
+}
+
+.modal-content {
+    background-color: transparent;
+}
+
  /* Custom styles for the footer */
  .footer {
     background-color: #1d1e1e;
@@ -54,7 +70,8 @@ h2 {
 }
 
 body {
-    background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.webp');
+    /* background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.webp'); */
+    background-image: url("../images/chaiteatray.webp");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

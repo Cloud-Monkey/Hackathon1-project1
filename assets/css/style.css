@@ -6,7 +6,7 @@
     width: 75px;
     height: 75px;
     margin-right: 10px;
-    background-color: #674368;
+    /* background-color: #674368; */
 }
 
 .navbar-text {
@@ -18,18 +18,13 @@
 }
 
 .callout-container {
-    height: 100vh;
-
-    background: url('../images/tea-background.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
 }
 
@@ -45,20 +40,20 @@
 /* Jumbotron */
 
 .jumbotron {
-    color: #86937f;
+    color: #fafafa;
     background-color: transparent;
 }
 
 .jumbotron-header {
-    font-size: 72px;
+    font-size: 56px;
 }
 
 .lead {
-    font-size: 36px;
+    font-size: x-large;
 }
 
 .heading-three {
-    font-size: 28px;
+    font-size: xx-large;
 }
 
 .container-wrapper .media .media-body {
@@ -97,6 +92,38 @@
 
 
 
+
+
+
+.card {
+    border-radius: 10px;
+    background-color:rgba(0, 0, 0, 0.5);
+    color: #fafafa;
+    width: 100%;
+    margin: 2em 0;
+    padding: 2em;
+}
+
+.card-wrapper {
+    padding: 0 2em;
+}
+
+html {
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+body {
+    background-image: url('../images/tea-background.webp');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.slide-image {
+    height: 550px;
+    overflow-y: hidden;
+}
 
 
 
