@@ -66,6 +66,8 @@ Top Navigation bar and footer.
 ## Citation
     (all sources, code, images, text, tools and sites used)
 
+    wireframes built using https://www.scene.io/
+
     nav icon teacup https://cdn-icons-png.flaticon.com/512/4857/4857219.png
 
     China tea img Photo by Ivan Samkov: https://www.pexels.com/photo/woman-in-red-and-white-robe-holding-black-ceramic-cup-8952611/
@@ -81,6 +83,8 @@ Top Navigation bar and footer.
     home page background pic Photo by Pixabay: https://www.pexels.com/photo/close-up-of-black-teapot-327136/
 
     videos for gallery page Tea in the Land of Thunder: Field Notes from Darjeeling https://www.youtube.com/watch?v=jqXPGvXkaKQ&t=22s
+
+    images converted to webp format using https://towebp.io/
 
 
 ## Future Features
