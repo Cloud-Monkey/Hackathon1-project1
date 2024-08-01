@@ -117,6 +117,8 @@ Top Navigation bar and footer with external links.
 
 Website tested for responsivity of all pages and components by sight and manual testing, for three screen sizes Mobile, Laptop, and Desktop.
 
+Website cannot currently be viewed on mobile due to a 401 error (unauthorised token access) bug ticket is raised for next iteration, due to hard stop deadline. 
+
 ### HTML Validation
 
 Some warnings and changes required in current deployed HTML bug tickets raised for unclosed elements, name convention, file formats etc, to be tackled in next project iteration. 
@@ -200,6 +202,9 @@ _Followed easy guide for deployment to cloud platform (Github pages) screenshot 
 
 #### HTML validation warnings
 - ticket raised
+
+#### 401 error mobile device view
+-ticket raised
 
 
 
