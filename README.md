@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-# The Art of Tea
+# The Art of Tea 
 
 ## Project Overview 
 
