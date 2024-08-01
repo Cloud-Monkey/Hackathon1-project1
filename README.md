@@ -79,20 +79,25 @@ Top Navigation bar and footer with external links.
 ### All features shown on one page format for desktop, Laptop and Mobile devices
 
 #### Part 1
-![Alt text](../Hackathon1-theartoftea/assets/images/Wireframes1.png "Basic wireframes part1")
+![Wireframe 1](../Hackathon1-theartoftea/assets/images/Wireframes1.png "Basic wireframes part1")
 
 #### Part 2
-![Alt text](../Hackathon1-theartoftea/assets/images/wireframes2.png "Basic wireframes part2")
+![Wireframe 2](../Hackathon1-theartoftea/assets/images/wireframes2.png "Basic wireframes part2")
 
 #### Part 3
-![Alt text](../Hackathon1-theartoftea/assets/images/wireframes3.png "Basic wireframes part3")
+![Wireframe 3](../Hackathon1-theartoftea/assets/images/wireframes3.png "Basic wireframes part3")
 
 #### Part 4
-![Alt text](../Hackathon1-theartoftea/assets/images/wireframes4.png "Basic wireframes part4")
+![Wireframe 4](../Hackathon1-theartoftea/assets/images/wireframes4.png "Basic wireframes part4")
 
 ## Testing
 
 ## Deployment
+
+_Followed easy guide for deployment to cloud platform (Github pages) screenshot below, cited in full citation section._
+
+![Deployment guide](../Hackathon1-theartoftea/assets/images/deploymentGuide.png "Github deployment guide")
+
 
 ## Citation
    ### (all sources, code, images, text, tools and sites used)
@@ -116,6 +121,8 @@ Top Navigation bar and footer with external links.
     videos for gallery page Tea in the Land of Thunder: Field Notes from Darjeeling https://www.youtube.com/watch?v=jqXPGvXkaKQ&t=22s
 
     images converted to webp format using https://towebp.io/
+
+    Deployment guide used from https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
 
 ## Future Features
