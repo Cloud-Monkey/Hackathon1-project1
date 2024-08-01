@@ -130,11 +130,12 @@ _Followed easy guide for deployment to cloud platform (Github pages) screenshot 
 
 ## Known Bugs
 
+#### Color change in form input field on click and on focus.
 
+#### Submission behaviour for form refresh when modal button is clicked.
 
+#### Some images are not correct webp/png format.
 
-## Gitpod Reminders
-
-`python3 -m http.server`
+#### Circular div for browser Icon.
 
 
