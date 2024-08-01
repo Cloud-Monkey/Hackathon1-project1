@@ -142,6 +142,6 @@ _Followed easy guide for deployment to cloud platform (Github pages) screenshot 
 
 #### Some images are not correct webp/png format.
 
-#### Circular div for browser Icon.
+#### Non circular div for browser Icon.
 
 
