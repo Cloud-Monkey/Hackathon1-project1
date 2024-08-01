@@ -134,7 +134,6 @@ _Followed easy guide for deployment to cloud platform (Github pages) screenshot 
 #### Additional options in Footer _(About Us, Privacy Policy, our story and contact through footer links)_
 
 
-
 ## Known Bugs
 
 #### Color change in form input field on click and on focus.
