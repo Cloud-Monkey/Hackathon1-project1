@@ -114,7 +114,7 @@ html {
 }
 
 body {
-    background-image: url('../images/tea-background.jpg');
+    background-image: url('../images/tea-background.webp');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
