@@ -127,6 +127,13 @@ _Followed easy guide for deployment to cloud platform (Github pages) screenshot 
 
 ## Future Features
 
+#### Custom Header and Logo for all pages
+
+#### FAQ Section in home page
+
+#### Additional options in Footer _(About Us, Privacy Policy, our story and contact through footer links)_
+
+
 
 ## Known Bugs
 
