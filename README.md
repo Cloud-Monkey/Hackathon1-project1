@@ -78,6 +78,8 @@ Top Navigation bar and footer.
 
     contact page background pic Photo by Bahram Yaghooti: https://www.pexels.com/photo/tray-with-glasses-and-a-pot-of-tea-10879144/
 
+    home page background pic Photo by Pixabay: https://www.pexels.com/photo/close-up-of-black-teapot-327136/
+
     videos for gallery page Tea in the Land of Thunder: Field Notes from Darjeeling https://www.youtube.com/watch?v=jqXPGvXkaKQ&t=22s
 
 
