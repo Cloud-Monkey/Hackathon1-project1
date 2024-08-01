@@ -137,6 +137,22 @@ All CSS run through validator no issues.
 
 ![CSS valid screenshot](../Hackathon1-theartoftea/assets/images/cssvalid.png)
 
+### Lighthouse
+
+All pages run through Lighthouse to check scores some performance issues adressed with lazy loading attribute. Further work need added to backlog for next iteration.
+
+#### Home
+
+![home page lighthouse result](../Hackathon1-theartoftea/assets/images/home-lighthouse.png)
+
+#### Gallery
+
+![gallery page lighthouse result](../Hackathon1-theartoftea/assets/images/gallery-lighthouse.png)
+
+#### Contact
+
+![contact page lighthouse result](../Hackathon1-theartoftea/assets/images/contact-lighthouse.png)
+
 ## Deployment
 
 _Followed easy guide for deployment to cloud platform (Github pages) screenshot below, cited in full citation section._
