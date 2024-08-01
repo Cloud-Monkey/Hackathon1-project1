@@ -119,7 +119,15 @@ Website tested for responsivity of all pages and components by sight and manual 
 
 ### HTML Validation
 
-Some warnings and changes required in current deployed HTML bug tickets raised for unclosed elements, name convention, file formats etc, to be tackled in next project iteration. Current build works with no errors in browser views.
+Some warnings and changes required in current deployed HTML bug tickets raised for unclosed elements, name convention, file formats etc, to be tackled in next project iteration. 
+
+Current build works with no errors in browser views. 
+
+Bugs prioritsed to next iteration due to hard stop deadline.
+
+![html warnings 1](../Hackathon1-theartoftea/assets/images/htmlwarnings1.png)
+
+![html warnings 2](../Hackathon1-theartoftea/assets/images/htmlwarnings2.png)
 
 ### CSS Validation
 
@@ -188,6 +196,9 @@ _Followed easy guide for deployment to cloud platform (Github pages) screenshot 
 - ticket raised
 
 #### Site performance due to video and img loading.
+- ticket raised
+
+#### HTML validation warnings
 - ticket raised
 
 
