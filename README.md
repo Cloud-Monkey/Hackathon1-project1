@@ -115,6 +115,18 @@ Top Navigation bar and footer with external links.
 
 ## Testing/Validation
 
+Website tested for responsivity of all pages and components by sight and manual testing, for three screen sizes Mobile, Laptop, and Desktop.
+
+### HTML Validation
+
+Some warnings and changes required in current deployed HTML bug tickets raised for unclosed elements, name convention, file formats etc, to be tackled in next project iteration. Current build works with no errors in browser views.
+
+### CSS Validation
+
+All CSS run through validator no issues.
+
+![CSS valid screenshot](../Hackathon1-theartoftea/assets/images/cssvalid.png)
+
 ## Deployment
 
 _Followed easy guide for deployment to cloud platform (Github pages) screenshot below, cited in full citation section._
