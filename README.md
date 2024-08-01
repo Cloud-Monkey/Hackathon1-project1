@@ -37,23 +37,23 @@ Logo for top of page also functions as link to home page, uniform styling across
 
 ### China culture _(Gallery page)_
 
-![China culture section]()
+![China culture section](../Hackathon1-theartoftea/assets/images/chinaculture.png)
 
 ### Japan culture _(Gallery page)_
 
-![Japan culture section]()
+![Japan culture section](../Hackathon1-theartoftea/assets/images/japanculture.png)
 
 ### India culture _(Gallery page)_
 
-![India culture section]()
+![India culture section](../Hackathon1-theartoftea/assets/images/indiaculture.png)
 
 ### Contact Form _(Contact page)_
 
-![Contact form]()
+![Contact form](../Hackathon1-theartoftea/assets/images/contactscreenshot.png)
 
 ### Footer with external links opening in a new tab _(All pages)_
 
-![Footer]()
+![Footer](../Hackathon1-theartoftea/assets/images/footerscreenshot.png)
 
 ## UX/UI
 
@@ -97,7 +97,7 @@ Top Navigation bar and footer with external links.
 Easy-to-find contact form, social links, additional resources.
 Top Navigation bar and footer with external links.
 
-(included initial wireframes below Desktop, Laptop and mobile builds)
+(included initial wireframes below Desktop, Laptop and mobile builds eventually split features accross three pages of website)
 
 ### All features shown on one page format for desktop, Laptop and Mobile devices
 
@@ -164,11 +164,20 @@ _Followed easy guide for deployment to cloud platform (Github pages) screenshot 
 ## Known Bugs
 
 #### Color change in form input field on click and on focus.
+- ticket raised
 
 #### Submission behaviour for form refresh when modal button is clicked.
+- ticket raised
 
 #### Some images are not correct webp/png format.
+- ticket raised
 
 #### Non circular div for browser Icon.
+- ticket raised
+
+#### Site performance due to video and img loading.
+- ticket raised
+
+
 
 
