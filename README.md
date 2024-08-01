@@ -11,16 +11,30 @@ The primary job of this website is to educate and engage visitors. It aims to pr
 
 ## List of Features
 
-Logo
-Top navigation menu
-Hero image
-Visual Story
-Footer
+### Logo/link to Home icon _(All pages)_
+
+### Top navigation menu _(All pages)_ collapses to burger on smaller screen sizes
+
+### Hero image _(Home page)_
+
+### Visual Story/Carousel _(Home page)_
+
+### Quote blocks _(Home page)_
+
+### China culture _(Gallery page)_
+
+### Japan culture _(Gallery page)_
+
+### India culture _(Gallery page)_
+
+### Contact Form _(Contact page)_
+
+### Footer with external links opening in a new tab _(All pages)_
 
 
 ## UX/UI
 
-## Messaging and tone
+### Messaging and tone
 
 _Brand Archetype:_ Sage (knowledge) and Explorer (freedom).
 
@@ -30,12 +44,14 @@ _Tone Characteristics:_
 3. Respectful, Caring: Value cultural heritage and the reader's time.
 4. Passionate, Enthusiastic: Convey a love for tea and its deep cultural roots.
 
-_Example Messaging:_
+#### _Example Messaging:_
+
 "Discover the rich history of tea across China, Japan, and India."
 "Uncover the stories behind every cup."
 "Explore the art and tradition of tea-making."
 
-_Design direction_
+#### _Design direction_
+
 High-quality imagery: Stunning visuals that capture the essence of tea culture.
 Elegant layout: Timeless design that allows the content to shine.
 Sophisticated typography: Reflecting the site's educational and cultural focus.
@@ -45,17 +61,18 @@ User-friendly navigation: Easy to explore and absorb the stories and information
 ## Website structure
 
 ### Homepage
-Warm welcome, brief introduction to the site, visual story images, quotes from tea denizens. Top Navigation bar and footer social links.
+Warm welcome, brief introduction to the site, visual story images, quotes from tea denizens. 
+Top Navigation bar and footer with external links.
 
 ### World page
 China Tea Culture: Detailed history, traditions, and significance. High-quality images.
 Japan Tea Culture: Engaging stories, traditional tea-making processes. Rich visuals.
 India Tea Culture: Cultural importance, unique practices. Stunning photos.
-Top Navigation bar and footer.
+Top Navigation bar and footer with external links.
 
 ### Contact Page
 Easy-to-find contact form, social links, additional resources.
-Top Navigation bar and footer.
+Top Navigation bar and footer with external links.
 
 (included initial wireframes below Desktop, Laptop and mobile builds)
 
