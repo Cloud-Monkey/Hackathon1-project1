@@ -23,7 +23,9 @@ Logo for top of page also functions as link to home page, uniform styling across
 
 ![Nav burger](../Hackathon1-theartoftea/assets/images/navbarburgerscreenshot.png)
 
-### Hero image _(Home page)_
+### JumboTron _(Home page)_
+
+![Jumbotron](../Hackathon1-theartoftea/assets/images/jumbotronscreenshot.png)
 
 ### Visual Story/Carousel _(Home page)_
 
