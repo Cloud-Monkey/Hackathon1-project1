@@ -120,6 +120,11 @@ body {
     background-attachment: fixed;
 }
 
+.slide-image {
+    height: 500px;
+    overflow-y: hidden;
+}
+
 
 
 
