@@ -78,16 +78,16 @@ Top Navigation bar and footer with external links.
 
 ### All features shown on one page format for desktop, Laptop and Mobile devices
 
-#### Part1
+#### Part 1
 ![Alt text](../Hackathon1-theartoftea/assets/images/Wireframes1.png "Basic wireframes part1")
 
-#### Part2
+#### Part 2
 ![Alt text](../Hackathon1-theartoftea/assets/images/wireframes2.png "Basic wireframes part2")
 
-#### Part3
+#### Part 3
 ![Alt text](../Hackathon1-theartoftea/assets/images/wireframes3.png "Basic wireframes part3")
 
-#### Part4
+#### Part 4
 ![Alt text](../Hackathon1-theartoftea/assets/images/wireframes4.png "Basic wireframes part4")
 
 ## Testing
