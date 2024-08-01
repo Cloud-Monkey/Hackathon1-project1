@@ -29,18 +29,31 @@ Logo for top of page also functions as link to home page, uniform styling across
 
 ### Visual Story/Carousel _(Home page)_
 
+![Carousel]()
+
 ### Quote blocks _(Home page)_
+
+![Quote blocks](../Hackathon1-theartoftea/assets/images/quotescreenshot.png)
 
 ### China culture _(Gallery page)_
 
+![China culture section]()
+
 ### Japan culture _(Gallery page)_
+
+![Japan culture section]()
 
 ### India culture _(Gallery page)_
 
+![India culture section]()
+
 ### Contact Form _(Contact page)_
+
+![Contact form]()
 
 ### Footer with external links opening in a new tab _(All pages)_
 
+![Footer]()
 
 ## UX/UI
 
@@ -133,6 +146,8 @@ _Followed easy guide for deployment to cloud platform (Github pages) screenshot 
     images converted to webp format using https://towebp.io/
 
     Deployment guide used from https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+    bootstrap documentation for reference https://getbootstrap.com/docs/4.6/getting-started/introduction/
 
     _readMe file created using Code institute guide pdf_
 
