@@ -13,7 +13,15 @@ The primary job of this website is to educate and engage visitors. It aims to pr
 
 ### Logo/link to Home icon _(All pages)_
 
+Logo for top of page also functions as link to home page, uniform styling across three site pages on top nav menu.
+
+![Teacup Logo icon](../Hackathon1-theartoftea/assets/images/logoLinkscreenshot.png)
+
 ### Top navigation menu _(All pages)_ collapses to burger on smaller screen sizes
+
+![Nav full size](../Hackathon1-theartoftea/assets/images/navfullscreenshot.png)
+
+![Nav burger](../Hackathon1-theartoftea/assets/images/navbarburgerscreenshot.png)
 
 ### Hero image _(Home page)_
 
@@ -90,7 +98,7 @@ Top Navigation bar and footer with external links.
 #### Part 4
 ![Wireframe 4](../Hackathon1-theartoftea/assets/images/wireframes4.png "Basic wireframes part4")
 
-## Testing
+## Testing/Validation
 
 ## Deployment
 
