@@ -70,7 +70,8 @@ h2 {
 }
 
 body {
-    background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.webp');
+    /* background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.webp'); */
+    background-image: url("../images/chaiteatray.webp");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

@@ -73,6 +73,8 @@ Top Navigation bar and footer.
 
     world page background pic Photo by Quang Nguyen Vinh: https://www.pexels.com/photo/woman-walking-in-tea-field-6130336/
 
+    contact page background pic Photo by Bahram Yaghooti: https://www.pexels.com/photo/tray-with-glasses-and-a-pot-of-tea-10879144/
+
 
 ## Future Features
 
