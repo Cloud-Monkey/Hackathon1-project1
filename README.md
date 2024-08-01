@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-# The Art of Tea
+# The Art of Tea 
 
 ## Project Overview 
 
@@ -13,24 +13,47 @@ The primary job of this website is to educate and engage visitors. It aims to pr
 
 ### Logo/link to Home icon _(All pages)_
 
+Logo for top of page also functions as link to home page, uniform styling across three site pages on top nav menu.
+
+![Teacup Logo icon](../Hackathon1-theartoftea/assets/images/logoLinkscreenshot.png)
+
 ### Top navigation menu _(All pages)_ collapses to burger on smaller screen sizes
 
-### Hero image _(Home page)_
+![Nav full size](../Hackathon1-theartoftea/assets/images/navfullscreenshot.png)
+
+![Nav burger](../Hackathon1-theartoftea/assets/images/navbarburgerscreenshot.png)
+
+### JumboTron _(Home page)_
+
+![Jumbotron](../Hackathon1-theartoftea/assets/images/jumbotronscreenshot.png)
 
 ### Visual Story/Carousel _(Home page)_
 
+![Carousel]()
+
 ### Quote blocks _(Home page)_
+
+![Quote blocks](../Hackathon1-theartoftea/assets/images/quotescreenshot.png)
 
 ### China culture _(Gallery page)_
 
+![China culture section](../Hackathon1-theartoftea/assets/images/chinaculture.png)
+
 ### Japan culture _(Gallery page)_
+
+![Japan culture section](../Hackathon1-theartoftea/assets/images/japanculture.png)
 
 ### India culture _(Gallery page)_
 
+![India culture section](../Hackathon1-theartoftea/assets/images/indiaculture.png)
+
 ### Contact Form _(Contact page)_
+
+![Contact form](../Hackathon1-theartoftea/assets/images/contactscreenshot.png)
 
 ### Footer with external links opening in a new tab _(All pages)_
 
+![Footer](../Hackathon1-theartoftea/assets/images/footerscreenshot.png)
 
 ## UX/UI
 
@@ -74,25 +97,52 @@ Top Navigation bar and footer with external links.
 Easy-to-find contact form, social links, additional resources.
 Top Navigation bar and footer with external links.
 
-(included initial wireframes below Desktop, Laptop and mobile builds)
+(included initial wireframes below Desktop, Laptop and mobile builds eventually split features accross three pages of website)
 
 ### All features shown on one page format for desktop, Laptop and Mobile devices
 
-#### Part1
-![Alt text](../Hackathon1-theartoftea/assets/images/Wireframes1.png "Basic wireframes part1")
+#### Part 1
+![Wireframe 1](../Hackathon1-theartoftea/assets/images/Wireframes1.png "Basic wireframes part1")
 
-#### Part2
-![Alt text](../Hackathon1-theartoftea/assets/images/wireframes2.png "Basic wireframes part2")
+#### Part 2
+![Wireframe 2](../Hackathon1-theartoftea/assets/images/wireframes2.png "Basic wireframes part2")
 
-#### Part3
-![Alt text](../Hackathon1-theartoftea/assets/images/wireframes3.png "Basic wireframes part3")
+#### Part 3
+![Wireframe 3](../Hackathon1-theartoftea/assets/images/wireframes3.png "Basic wireframes part3")
 
-#### Part4
-![Alt text](../Hackathon1-theartoftea/assets/images/wireframes4.png "Basic wireframes part4")
+#### Part 4
+![Wireframe 4](../Hackathon1-theartoftea/assets/images/wireframes4.png "Basic wireframes part4")
 
-## Testing
+## Testing/Validation
+
+Website tested for responsivity of all pages and components by sight and manual testing, for three screen sizes Mobile, Laptop, and Desktop.
+
+Website cannot currently be viewed on mobile due to a 401 error (unauthorised token access) bug ticket is raised for next iteration, due to hard stop deadline. 
+
+### HTML Validation
+
+Some warnings and changes required in current deployed HTML bug tickets raised for unclosed elements, name convention, file formats etc, to be tackled in next project iteration. 
+
+Current build works with no errors in browser views. 
+
+Bugs prioritsed to next iteration due to hard stop deadline.
+
+![html warnings 1](../Hackathon1-theartoftea/assets/images/htmlwarnings1.png)
+
+![html warnings 2](../Hackathon1-theartoftea/assets/images/htmlwarnings2.png)
+
+### CSS Validation
+
+All CSS run through validator no issues.
+
+![CSS valid screenshot](../Hackathon1-theartoftea/assets/images/cssvalid.png)
 
 ## Deployment
+
+_Followed easy guide for deployment to cloud platform (Github pages) screenshot below, cited in full citation section._
+
+![Deployment guide](../Hackathon1-theartoftea/assets/images/deploymentGuide.png "Github deployment guide")
+
 
 ## Citation
    ### (all sources, code, images, text, tools and sites used)
@@ -117,17 +167,45 @@ Top Navigation bar and footer with external links.
 
     images converted to webp format using https://towebp.io/
 
+    Deployment guide used from https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+    bootstrap documentation for reference https://getbootstrap.com/docs/4.6/getting-started/introduction/
+
+    _readMe file created using Code institute guide pdf_
+
 
 ## Future Features
+
+#### Custom Header and Logo for all pages
+
+#### FAQ Section in home page
+
+#### Additional options in Footer _(About Us, Privacy Policy, our story and contact through footer links)_
 
 
 ## Known Bugs
 
+#### Color change in form input field on click and on focus.
+- ticket raised
+
+#### Submission behaviour for form refresh when modal button is clicked.
+- ticket raised
+
+#### Some images are not correct webp/png format.
+- ticket raised
+
+#### Non circular div for browser Icon.
+- ticket raised
+
+#### Site performance due to video and img loading.
+- ticket raised
+
+#### HTML validation warnings
+- ticket raised
+
+#### 401 error mobile device view
+-ticket raised
 
 
-
-## Gitpod Reminders
-
-`python3 -m http.server`
 
 
